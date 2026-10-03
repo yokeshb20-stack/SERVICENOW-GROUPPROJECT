@@ -1,14 +1,11 @@
-# SERVICENOW-GROUPPROJECT
-Automating standard laptop procurement in ServiceNow using Service Catalog and Flow Designer.
 Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
 Project Title & Team Details
 Project Title: Streamlining IT Procurement – Automating Standard Laptop Orders with Flow Designer
 Team Members:
-Paul Murugan A (Team Leader)
-Ragunathan S
-Hari Priya K
-Pachaiyammal P
-Ramkumar V
+YOKESH B K  (Team Leader)
+PUSHPA V
+SARAN KARTHICK N
+AKASH
 Project Overview
 Problem Statement
 Manual IT procurement processes often lead to delayed approvals, lack of visibility for requestors, higher error rates in fulfillments, and unnecessary administrative overhead for IT helpdesk teams when handling routine hardware requests like laptop orders.
